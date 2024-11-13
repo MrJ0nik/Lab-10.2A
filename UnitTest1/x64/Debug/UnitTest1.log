@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 10.0\10.2A\Lab-10.2A\Lab-10.2A.cpp(172,84): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '/UnitTest1.cpp')
+  
+  UnitTest1.vcxproj -> C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 10.0\10.2A\Lab-10.2A\x64\Debug\UnitTest1.dll
